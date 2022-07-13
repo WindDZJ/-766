@@ -5,3 +5,8 @@
    - ☂ SVM面试问题汇总
    - ☂ 逻辑回归面试问题汇总
    - ☂ 决策树面试问题汇总
+3. **♬ 集合模型**
+   - ☂ bagging and boosting
+   - ☂ AdaBoost
+   - ☂ 随机森林
+   - ☂ GDBT
